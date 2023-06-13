@@ -1,0 +1,10 @@
+* snakes
+
+Python-like generators for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/BnMcGn/snakes.git   |
+| commit  | b1e3532  |
+| systems | snakes |
+|---------+-------------------------------------------|
+
